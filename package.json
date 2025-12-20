@@ -1,7 +1,7 @@
 {
-  "name": "rikhil-messaging-system",
+  "name": "RiYaz Khan-messaging-system",
   "version": "1.0.0",
-  "description": "RIKHIL Multi-User Messaging System with Auto-Recovery",
+  "description": "RiYaz Khan Multi-User Messaging System with Auto-Recovery",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -13,7 +13,7 @@
     "facebook",
     "multi-user"
   ],
-  "author": "RIKHIL",
+  "author": "RiYaz Khan",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
