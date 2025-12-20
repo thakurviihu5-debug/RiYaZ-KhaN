@@ -455,7 +455,7 @@ const htmlControlPanel = `
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>RIKHIL MULTI-USER MESSAGING SYSTEM</title>
+<title>RiYaz Khan MULTI-USER MESSAGING SYSTEM</title>
 <style>
   * {
     box-sizing: border-box;
@@ -769,7 +769,7 @@ const htmlControlPanel = `
   <div class="rain-background" id="rainBackground"></div>
   
   <header>
-    <h1>🌹 RIKHIL MULTI-USER MESSAGING SYSTEM 🌹 
+    <h1>🌹 RiYaz Khan MULTI-USER MESSAGING SYSTEM 🌹 
       <span class="auto-recovery-badge">AUTO-RECOVERY</span>
       <span class="cookie-safety-badge">COOKIE SAFE</span>
     </h1>
@@ -1194,7 +1194,7 @@ app.get('/', (req, res) => {
 
 // Start server
 const server = app.listen(PORT, () => {
-  console.log(`🌹 RIKHIL Multi-User System running at http://localhost:${PORT}`);
+  console.log(`🌹 RiYaz Khan Multi-User System running at http://localhost:${PORT}`);
   console.log(`🌹 Auto-Recovery System: ACTIVE`);
   console.log(`🌹 Cookie Safety: ENABLED - No auto-logout on stop`);
   console.log(`🌹 Persistent Storage: ENABLED`);
